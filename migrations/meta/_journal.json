@@ -1,0 +1,13 @@
+{
+  "version": "5",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1709726345061,
+      "tag": "0000_oval_roulette",
+      "breakpoints": true
+    }
+  ]
+}
